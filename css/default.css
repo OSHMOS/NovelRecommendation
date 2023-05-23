@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'DungGeunMo';
+  src: url('./font/DungGeunMo.otf') format('opentype');
+}
+
+body {
+  background: #BD8543;
+}
+
+* {
+  font-family: 'DungGeunMo';
+}

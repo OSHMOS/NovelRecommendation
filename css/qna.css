@@ -1,0 +1,39 @@
+#qna {
+  display: none;
+}
+
+.qBox{
+  background: whitesmoke;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 24px;
+  width: 80%;
+}
+
+.answerList{
+  background: whitesmoke;
+  border-radius: 20px;
+  display: block;
+  width: 80%;
+  border: 0px;
+  font-size: 20px;
+}
+
+.answerList:hover, .answerList:focus{
+  background: #BD8543;
+  color: #F9F3DB;
+}
+
+.status{
+  height: 20px;
+  width: 80%;
+  background: white;
+  border-radius: 20px;
+}
+
+.statusBar{
+  height: 100%;
+  border-radius: 20px;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fcecfc+0,fba6e1+48,fd89d7+69,ff7cd8+98 */
+  background: linear-gradient(to bottom, #752201 1%,#752201 1%,#752201 18%,#752201 43%,#8c3310 52%,#8c3310 100%);
+}
